@@ -29,4 +29,4 @@ while(N != 0):                                              # เช็คว่
       print("There are",N,"sticks in the pile.\n")
     i += 1                                                  # อัพเดตค่า i เพื่อเปลี่ยนตาผู้เล่น
 
-      
+      ################# test
